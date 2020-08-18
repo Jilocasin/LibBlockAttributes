@@ -1,3 +1,7 @@
+# Fork disclaimer
+
+This fork was made to achieve Minecraft 1.16.1 compatibility.
+
 # LibBlockAttributes
 
 This is a library mod for the [Fabric](https://fabricmc.net/) API, based around [Minecraft](https://minecraft.net).
